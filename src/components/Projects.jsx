@@ -18,6 +18,45 @@ const Projects = () => {
           <div className="flex flex-col sm:flex-row justify-between items-start sm:items-center">
             <div className="flex flex-col">
               <p className="mb-2 font-semibold text-lg">
+                VetConnect -{" "}
+                <span className="text-sm text-[#38A5FF]">
+                  Toronto Metropolitan University
+                </span>
+              </p>
+              <ol className="text-gray-300 mb-4 text-sm">
+                <li className="py-1">
+                Collaborated with four developers to develop, design, troubleshoot, and document a secure 
+                and reliable all-in-one patient management system to streamline the communication between pet owners and veterinarians.
+                </li>
+              </ol>
+              <div className="flex flex-wrap space-x-2">
+                <span className="mt-1 rounded bg-[#2f343d53] px-2 py-1 text-sm font-medium text-[#38A5FF]">
+                  TypeScript
+                </span>
+                <span className="mt-1 rounded bg-[#2f343d53] px-2 py-1 text-sm font-medium text-[#38A5FF]">
+                  HTML
+                </span>
+                <span className="mt-1 rounded bg-[#2f343d53] px-2 py-1 text-sm font-medium text-[#38A5FF]">
+                  CSS
+                </span>
+                <span className="mt-1 rounded bg-[#2f343d53] px-2 py-1 text-sm font-medium text-[#38A5FF]">
+                  React
+                </span>
+                <span className="mt-1 rounded bg-[#2f343d53] px-2 py-1 text-sm font-medium text-[#38A5FF]">
+                  Supabase
+                </span>
+                <span className="mt-1 rounded bg-[#2f343d53] px-2 py-1 text-sm font-medium text-[#38A5FF]">
+                  PostgreSQL
+                </span>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div className="w-full mt-8">
+          <div className="flex flex-col sm:flex-row justify-between items-start sm:items-center">
+            <div className="flex flex-col">
+              <p className="mb-2 font-semibold text-lg">
                 Olympic Medal Predictor -{" "}
                 <span className="text-sm text-[#38A5FF]">
                   Personal Project
