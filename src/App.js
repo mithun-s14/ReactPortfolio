@@ -11,12 +11,14 @@ function App() {
   return (
     <div className="bg-[#0a192f]">
       <Navbar />
+      <div className="space-y-20">
       <Home />
       <About />
       <Skills />
       <Work />
       <Projects />
       <Contact />
+      </div>
     </div>
   );
 }
