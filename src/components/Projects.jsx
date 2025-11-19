@@ -2,7 +2,10 @@ import React from "react";
 
 const Projects = () => {
   return (
-    <div name="projects" className="sm:mb-20 w-full h-full bg-[#0a192f] text-white">
+    <div
+      name="projects"
+      className="sm:mb-20 w-full h-full bg-[#0a192f] text-white"
+    >
       <div className="max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full">
         <div>
           <p className="text-4xl font-bold inline border-b-4 border-[#38A5FF]">
@@ -18,6 +21,50 @@ const Projects = () => {
           <div className="flex flex-col sm:flex-row justify-between items-start sm:items-center">
             <div className="flex flex-col">
               <p className="mb-2 font-semibold text-lg">
+                Prop Model (In Progress) -{" "}
+                <span className="text-sm text-[#38A5FF]">Personal Project</span>
+              </p>
+              <ol className="text-gray-300 mb-4 text-sm">
+                <li className="py-1">
+                  Developed a machine learning pipeline to predict NBA player
+                  performance metrics (points, rebounds, assists) using advanced
+                  regression and ensemble models (Linear Regression, Random
+                  Forest, XGBoost, LightGBM).
+                </li>
+                <li className="py-1">
+                  Automated data collection using Selenium to scrape usage rates
+                  and defense metrics from dynamic sports websites, reducing
+                  manual preprocessing time
+                </li>
+              </ol>
+              <div className="flex flex-wrap space-x-2">
+                <span className="mt-1 rounded bg-[#2f343d53] px-2 py-1 text-sm font-medium text-[#38A5FF]">
+                  Python
+                </span>
+                <span className="mt-1 rounded bg-[#2f343d53] px-2 py-1 text-sm font-medium text-[#38A5FF]">
+                  Selenium
+                </span>
+                <span className="mt-1 rounded bg-[#2f343d53] px-2 py-1 text-sm font-medium text-[#38A5FF]">
+                  scikit-learn
+                </span>
+                <span className="mt-1 rounded bg-[#2f343d53] px-2 py-1 text-sm font-medium text-[#38A5FF]">
+                  pandas
+                </span>
+                <span className="mt-1 rounded bg-[#2f343d53] px-2 py-1 text-sm font-medium text-[#38A5FF]">
+                  NumPy
+                </span>
+                <span className="mt-1 rounded bg-[#2f343d53] px-2 py-1 text-sm font-medium text-[#38A5FF]">
+                  NBA_API
+                </span>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div className="w-full mt-8">
+          <div className="flex flex-col sm:flex-row justify-between items-start sm:items-center">
+            <div className="flex flex-col">
+              <p className="mb-2 font-semibold text-lg">
                 VetConnect -{" "}
                 <span className="text-sm text-[#38A5FF]">
                   Toronto Metropolitan University
@@ -25,8 +72,10 @@ const Projects = () => {
               </p>
               <ol className="text-gray-300 mb-4 text-sm">
                 <li className="py-1">
-                Collaborated with four developers to develop, design, troubleshoot, and document a secure 
-                and reliable all-in-one patient management system to streamline the communication between pet owners and veterinarians.
+                  Collaborated with four developers to develop, design,
+                  troubleshoot, and document a secure and reliable all-in-one
+                  patient management system to streamline the communication
+                  between pet owners and veterinarians.
                 </li>
               </ol>
               <div className="flex flex-wrap space-x-2">
@@ -58,14 +107,12 @@ const Projects = () => {
             <div className="flex flex-col">
               <p className="mb-2 font-semibold text-lg">
                 Olympic Medal Predictor -{" "}
-                <span className="text-sm text-[#38A5FF]">
-                  Personal Project
-                </span>
+                <span className="text-sm text-[#38A5FF]">Personal Project</span>
               </p>
               <ol className="text-gray-300 mb-4 text-sm">
                 <li className="py-1">
-                  Developed and trained a linear regression model to predict the amount of medals a 
-                  country will win based on past results.
+                  Developed and trained a linear regression model to predict the
+                  amount of medals a country will win based on past results.
                 </li>
               </ol>
               <div className="flex flex-wrap space-x-2">

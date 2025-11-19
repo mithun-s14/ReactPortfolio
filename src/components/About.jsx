@@ -23,7 +23,7 @@ const About = () => {
               different machine learning models, employing modern technologies in web development, and many more. During my time at University
               I've had the opportunity to dabble in different programming languages and opportunities. I have also completed an 8-month internship
               at the Treasury Board Secretariat where I've been able to further sharpen my full-stack development skills and learn how to develop in a professional environment. 
-              I am currently seeking a 4 to 8-month position starting in May 2025. Please feel free to reach out to me if you would like to chat or talk about any opportunities!
+              I am currently completing 8-month co-op position at Environment and Climate Change Canada and now seeking new grad roles starting in Summer 2026. Please feel free to reach out to me if you would like to chat or talk about any opportunities!
             </p>
           </div>
         </div>
