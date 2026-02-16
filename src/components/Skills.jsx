@@ -51,7 +51,7 @@ const skills = {
     { img: GitHub, label: 'GitHub' },
     { img: supabase, label: 'Supabase' },
     { img: powerplatform, label: 'Power Platform' },
-    { img: mssql, label: 'SQL Server Management Studio' },
+    { img: mssql, label: 'SQL Server Management Studio', size: 'h-24'},
     { img: visualstudio, label: 'Visual Studio' },
     { img: vercel, label: 'Vercel' },
     { img: nodejs, label: 'Node.js' },
