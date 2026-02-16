@@ -1,21 +1,31 @@
 {
   "files": {
-    "main.css": "/ReactPortfolio/static/css/main.f6963cf7.css",
-    "main.js": "/ReactPortfolio/static/js/main.50e8d9d8.js",
-    "static/media/python.png": "/ReactPortfolio/static/media/python.4f5f52c67194dc46e313.png",
+    "main.css": "/ReactPortfolio/static/css/main.53c74f39.css",
+    "main.js": "/ReactPortfolio/static/js/main.1457e189.js",
+    "static/media/selenium.png": "/ReactPortfolio/static/media/selenium.8acd00a91ebc15e2633e.png",
+    "static/media/nodejs.png": "/ReactPortfolio/static/media/nodejs.11d27271a48f18a1a5a2.png",
+    "static/media/mssql.png": "/ReactPortfolio/static/media/mssql.297c81dcab65b2b25475.png",
+    "static/media/csharp.png": "/ReactPortfolio/static/media/csharp.9bce78737e170b4b7cdf.png",
     "static/media/react.png": "/ReactPortfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/flask.png": "/ReactPortfolio/static/media/flask.1d7f2b2454eddfe82062.png",
+    "static/media/beautifulsoup.png": "/ReactPortfolio/static/media/beautifulsoup.f032ce2b88c64ec82ef6.png",
     "static/media/github.png": "/ReactPortfolio/static/media/github.3b9e32903aa89111875d.png",
     "static/media/html.png": "/ReactPortfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
     "static/media/tailwind.png": "/ReactPortfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
     "static/media/java.png": "/ReactPortfolio/static/media/java.f5dd86c3ef6ef3f85acf.png",
     "static/media/css.png": "/ReactPortfolio/static/media/css.69a82c2d9e45c933a9cb.png",
     "static/media/javascript.png": "/ReactPortfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "static/media/visualstudio.png": "/ReactPortfolio/static/media/visualstudio.d31b03910690b550742a.png",
+    "static/media/powerplatform.webp": "/ReactPortfolio/static/media/powerplatform.89e904bea506f2f32724.webp",
+    "static/media/python.webp": "/ReactPortfolio/static/media/python.1a722849560638ec2edf.webp",
+    "static/media/vercel.svg": "/ReactPortfolio/static/media/vercel.1275ec5a65b8931d080beb59cf09656a.svg",
     "index.html": "/ReactPortfolio/index.html",
-    "main.f6963cf7.css.map": "/ReactPortfolio/static/css/main.f6963cf7.css.map",
-    "main.50e8d9d8.js.map": "/ReactPortfolio/static/js/main.50e8d9d8.js.map"
+    "static/media/pandas.svg": "/ReactPortfolio/static/media/pandas.b6ed8692593d49a0abce10c2a7772ed1.svg",
+    "main.53c74f39.css.map": "/ReactPortfolio/static/css/main.53c74f39.css.map",
+    "main.1457e189.js.map": "/ReactPortfolio/static/js/main.1457e189.js.map"
   },
   "entrypoints": [
-    "static/css/main.f6963cf7.css",
-    "static/js/main.50e8d9d8.js"
+    "static/css/main.53c74f39.css",
+    "static/js/main.1457e189.js"
   ]
 }
