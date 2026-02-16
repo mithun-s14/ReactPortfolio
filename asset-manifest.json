@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ReactPortfolio/static/css/main.53c74f39.css",
-    "main.js": "/ReactPortfolio/static/js/main.1457e189.js",
+    "main.css": "/ReactPortfolio/static/css/main.062979f9.css",
+    "main.js": "/ReactPortfolio/static/js/main.e5f20b83.js",
     "static/media/selenium.png": "/ReactPortfolio/static/media/selenium.8acd00a91ebc15e2633e.png",
     "static/media/nodejs.png": "/ReactPortfolio/static/media/nodejs.11d27271a48f18a1a5a2.png",
     "static/media/mssql.png": "/ReactPortfolio/static/media/mssql.297c81dcab65b2b25475.png",
@@ -21,11 +21,11 @@
     "static/media/vercel.svg": "/ReactPortfolio/static/media/vercel.1275ec5a65b8931d080beb59cf09656a.svg",
     "index.html": "/ReactPortfolio/index.html",
     "static/media/pandas.svg": "/ReactPortfolio/static/media/pandas.b6ed8692593d49a0abce10c2a7772ed1.svg",
-    "main.53c74f39.css.map": "/ReactPortfolio/static/css/main.53c74f39.css.map",
-    "main.1457e189.js.map": "/ReactPortfolio/static/js/main.1457e189.js.map"
+    "main.062979f9.css.map": "/ReactPortfolio/static/css/main.062979f9.css.map",
+    "main.e5f20b83.js.map": "/ReactPortfolio/static/js/main.e5f20b83.js.map"
   },
   "entrypoints": [
-    "static/css/main.53c74f39.css",
-    "static/js/main.1457e189.js"
+    "static/css/main.062979f9.css",
+    "static/js/main.e5f20b83.js"
   ]
 }
