@@ -21,7 +21,7 @@ const Projects = () => {
           <div className="flex flex-col sm:flex-row justify-between items-start sm:items-center">
             <div className="flex flex-col">
               <p className="mb-2 font-semibold text-lg">
-                Prop Model (In Progress) -{" "}
+                NBA Predictive Analytics Platform -{" "}
                 <span className="text-sm text-[#38A5FF]">Personal Project</span>
               </p>
               <ol className="text-gray-300 mb-4 text-sm">
@@ -55,6 +55,15 @@ const Projects = () => {
                 </span>
                 <span className="mt-1 rounded bg-[#2f343d53] px-2 py-1 text-sm font-medium text-[#38A5FF]">
                   NBA_API
+                </span>
+                <span className="mt-1 rounded bg-[#2f343d53] px-2 py-1 text-sm font-medium text-[#38A5FF]">
+                  Flask
+                </span>
+                <span className="mt-1 rounded bg-[#2f343d53] px-2 py-1 text-sm font-medium text-[#38A5FF]">
+                  Gradio
+                </span>
+                <span className="mt-1 rounded bg-[#2f343d53] px-2 py-1 text-sm font-medium text-[#38A5FF]">
+                  pytest
                 </span>
               </div>
             </div>

@@ -55,6 +55,15 @@ const Work = () => {
                 <span className="mt-1 rounded bg-[#2f343d53] px-2 py-1 text-sm font-medium text-[#38A5FF]">
                   SQL
                 </span>
+                <span className="mt-1 rounded bg-[#2f343d53] px-2 py-1 text-sm font-medium text-[#38A5FF]">
+                  Microsoft Power BI
+                </span>
+                <span className="mt-1 rounded bg-[#2f343d53] px-2 py-1 text-sm font-medium text-[#38A5FF]">
+                  Microsoft Power Automate
+                </span>
+                <span className="mt-1 rounded bg-[#2f343d53] px-2 py-1 text-sm font-medium text-[#38A5FF]">
+                  Azure DevOps
+                </span>
               </div>
             </div>
           </div>
@@ -111,6 +120,9 @@ const Work = () => {
                 </span>
                 <span className="mt-1 rounded bg-[#2f343d53] px-2 py-1 text-sm font-medium text-[#38A5FF]">
                   Microsoft SQL Server
+                </span>
+                <span className="mt-1 rounded bg-[#2f343d53] px-2 py-1 text-sm font-medium text-[#38A5FF]">
+                  Azure DevOps
                 </span>
               </div>
             </div>
