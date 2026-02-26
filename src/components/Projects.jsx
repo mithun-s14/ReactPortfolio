@@ -21,7 +21,75 @@ const Projects = () => {
           <div className="flex flex-col sm:flex-row justify-between items-start sm:items-center">
             <div className="flex flex-col">
               <p className="mb-2 font-semibold text-lg">
-                NBA Predictive Analytics Platform -{" "}
+                <a
+                  href="https://fantasy-basketball-companion.vercel.app/"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="text-[#38A5FF] hover:underline inline-flex items-center gap-1"
+                >
+                  Fantasy Basketball Companion
+                  <svg xmlns="http://www.w3.org/2000/svg" className="inline w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+                    <path strokeLinecap="round" strokeLinejoin="round" d="M14 3h7m0 0v7m0-7L10 14M5 5H3a2 2 0 00-2 2v14a2 2 0 002 2h14a2 2 0 002-2v-2" />
+                  </svg>
+                </a>{" "}
+                -{" "}
+                <span className="text-sm text-[#38A5FF]">Personal Project</span>
+              </p>
+              <ol className="text-gray-300 mb-4 text-sm">
+                <li className="py-1">
+                  Built a full-stack web application for fantasy basketball
+                  enthusiasts featuring a schedule analyzer, AI-powered coach,
+                  and roster management in a unified platform.
+                </li>
+                <li className="py-1">
+                  Integrated a Gemini-powered chatbot that provides personalized
+                  trade, waiver wire, and lineup recommendations by incorporating
+                  the user's saved roster data.
+                </li>
+              </ol>
+              <div className="flex flex-wrap space-x-2">
+                <span className="mt-1 rounded bg-[#2f343d53] px-2 py-1 text-sm font-medium text-[#38A5FF]">
+                  Next.js
+                </span>
+                <span className="mt-1 rounded bg-[#2f343d53] px-2 py-1 text-sm font-medium text-[#38A5FF]">
+                  TypeScript
+                </span>
+                <span className="mt-1 rounded bg-[#2f343d53] px-2 py-1 text-sm font-medium text-[#38A5FF]">
+                  Supabase
+                </span>
+                <span className="mt-1 rounded bg-[#2f343d53] px-2 py-1 text-sm font-medium text-[#38A5FF]">
+                  Google Gemini
+                </span>
+                <span className="mt-1 rounded bg-[#2f343d53] px-2 py-1 text-sm font-medium text-[#38A5FF]">
+                  Tailwind CSS
+                </span>
+                <span className="mt-1 rounded bg-[#2f343d53] px-2 py-1 text-sm font-medium text-[#38A5FF]">
+                  shadcn/ui
+                </span>
+                <span className="mt-1 rounded bg-[#2f343d53] px-2 py-1 text-sm font-medium text-[#38A5FF]">
+                  NBA Stats API
+                </span>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div className="w-full mt-8">
+          <div className="flex flex-col sm:flex-row justify-between items-start sm:items-center">
+            <div className="flex flex-col">
+              <p className="mb-2 font-semibold text-lg">
+                <a
+                  href="https://huggingface.co/spaces/mithun14/prop-model"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="text-[#38A5FF] hover:underline inline-flex items-center gap-1"
+                >
+                  NBA Predictive Analytics Platform
+                  <svg xmlns="http://www.w3.org/2000/svg" className="inline w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+                    <path strokeLinecap="round" strokeLinejoin="round" d="M14 3h7m0 0v7m0-7L10 14M5 5H3a2 2 0 00-2 2v14a2 2 0 002 2h14a2 2 0 002-2v-2" />
+                  </svg>
+                </a>{" "}
+                -{" "}
                 <span className="text-sm text-[#38A5FF]">Personal Project</span>
               </p>
               <ol className="text-gray-300 mb-4 text-sm">
